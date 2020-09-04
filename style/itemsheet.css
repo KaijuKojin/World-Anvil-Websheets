@@ -1,0 +1,34 @@
+body {
+     background:url(https://www.worldanvil.com/uploads/images/d93b06a0afd8388d2b891a53c3cf1be5.png);
+     background-repeat: no-repeat;
+     background-size: 500px 600px;
+    }
+    .itemname {
+        position: absolute;
+        top:219px;left:205px;
+        width: 222px; height:20px ;
+        border: 1px solid #333;
+      
+    }
+    .cost {
+        position: relative;
+        top:8px;left:-5px;
+        width: 90px;
+        border: 1px solid #333;
+      
+    }
+
+    .weight {
+        position: relative;
+        top:30px;left:47px;
+        width: 50px;
+        border: 1px solid #333;
+      
+    }
+    .description {
+        position: relative;
+        top:95px;left:-50px;
+        width: 280px;
+        border: 1px solid #333;
+    
+    }
